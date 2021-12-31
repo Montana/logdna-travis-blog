@@ -41,8 +41,6 @@ You'll then set your password and then get a confirmation email.
 Go the example use case I created [here](https://github.com/Montana/logdna-travis). You'll want to go through some of the files specifically `Gruntfile.js` and `package.json`, and you'll see my current `.travis.yml` looks like this: 
 
 ```yaml
-
-   
 language: node_js
 node_js: "10"
 sudo: false
@@ -80,6 +78,14 @@ Try and run a build, and if it's successful you should see something like this:
 <img width="1201" alt="Screen Shot 2021-12-31 at 9 43 08 AM" src="https://user-images.githubusercontent.com/20936398/147834381-50b24fbd-6cf4-4fb2-af84-0c799e2bbdea.png">
 
 Remember, this is just a quick example I used, but you can also use LogDNA with your project, I've found it very useful for the notifications. There's various other pluses to add LogDNA to your Travis CI project, and it's simple to integrate. 
+
+## Conclusion 
+
+There you have it! You've just used LogDNA with Travis CI, again I'm glad to be showing the flexibility and ease of use with Travis CI. 
+
+As always if you have any questions, any questions at all, please email me at [montana@travis-ci.org](montana@travis-ci.org).
+
+Happy building, and Happy New Year! 
 
 
 
