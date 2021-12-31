@@ -83,7 +83,7 @@ Remember, this is just a quick example I used, but you can also use LogDNA with 
 
 There you have it! You've just used LogDNA with Travis CI, again I'm glad to be showing the flexibility and ease of use with Travis CI. 
 
-As always if you have any questions, any questions at all, please email me at [mntana@travis-ci.org](mailto:montana@travis-ci.org).
+As always if you have any questions, any questions at all, please email me at [montana@travis-ci.org](mailto:montana@travis-ci.org).
 
 Happy building, and Happy New Year! 
 
